@@ -1,4 +1,4 @@
-# Project Name  (Replace with your project's name)
+# Project Name  Apartment Listing
 
 ## Description
 
