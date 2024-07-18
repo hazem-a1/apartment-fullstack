@@ -6,8 +6,8 @@ This application leverages Docker Compose to seamlessly run two essential servic
 
 ## Features
 
-* **Next.js Frontend:** Provides a dynamic and interactive user experience.
-* **Nest.js Backend:** Offers a robust and scalable foundation for managing your application's logic and data.
+* **Next.js Frontend:** Provides a dynamic and interactive user experience. runs on <http://localhost:3000/>
+* **Nest.js Backend:** Offers a robust and scalable foundation for managing your application's logic and data. api docs on <http://localhost:3001/api/docs>
 * **Nest.js Backend:** once you create the database and run the application, the database will be populated with some data.
 
 ## Running the Application
